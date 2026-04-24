@@ -14,9 +14,9 @@
 
 ---
 
-> *Building production AI systems that work under real-world constraints — latency targets, unreliable data, and distributed failure modes.*
+> *Building production AI systems that work under real-world constraints - latency targets, unreliable data and distributed failure modes.*
 
-I'm a Senior AI Engineer with **8+ years** of experience owning and scaling production AI systems across enterprise environments. I focus on **agentic AI**, large-scale LLM applications, and platform-oriented system design — shipping things that actually survive production.
+I'm a Senior AI Engineer with **8+ years** of experience owning and scaling production AI systems across enterprise environments. I focus on **agentic AI**, large-scale LLM applications and platform-oriented system design - shipping things that actually survive production.
 
 Currently at **Aptean India**, delivering AI systems that have driven 25% improvement in lead conversion and reduced manual operations by 40%.
 
