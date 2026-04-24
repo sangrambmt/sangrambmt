@@ -190,7 +190,7 @@ ISSN: 2455-2631 · Vol.6, Issue 5 · pp. 174–179
 
 
 
-I'm open to conversations around **agentic AI**, **production LLM systems**, and **distributed AI architecture**.
+I'm open to conversations around **agentic AI**, **production LLM systems** and **distributed AI architecture**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbmthakur)
 [![Email](https://img.shields.io/badge/Send_an_Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:sbmthakur@outlook.com)
