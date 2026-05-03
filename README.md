@@ -133,15 +133,11 @@ Boosted marketing ROI by **25%**.
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub
 
 <div align="center">
 
-![Sangram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangrambmt&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangrambmt&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangrambmt&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangrambmt&layout=compact&hide_border=true&cache_seconds=86400)
 
 </div>
 
