@@ -135,7 +135,7 @@ Boosted marketing ROI by **25%**.
 
 ## 📊 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangrambmt&layout=compact&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangrambmt...)
 
 </div>
 
