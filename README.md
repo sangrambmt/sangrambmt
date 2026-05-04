@@ -133,7 +133,6 @@ Boosted marketing ROI by **25%**.
 
 ### 🔌 MCP Enterprise Server
 Custom Model Context Protocol server exposing 14 tools across CRM lead management and IoT sensor monitoring over SQLite — zero config, clone and run.
-[View repo →](https://github.com/sangrambmt/mcp-enterprise-server)
 
 ---
 
