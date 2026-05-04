@@ -131,19 +131,23 @@ Reduced manual workload by **70%** and increased client meeting conversion by **
 Developed a predictive ML model using behavioural and demographic data, integrated with Salesforce and Azure ML for real-time lead scoring directly inside the sales workflow.
 Boosted marketing ROI by **25%**.
 
+### 🔌 MCP Enterprise Server
+Custom Model Context Protocol server exposing 14 tools across CRM lead management and IoT sensor monitoring over SQLite — zero config, clone and run.
+[View repo →](https://github.com/sangrambmt/mcp-enterprise-server)
+
 ---
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-![Stats](https://sangrambmts-projects.vercel.app/api/stats?username=sangrambmt&theme=light)
+![Stats](https://sangrambmts-projects.vercel.app/api/stats?username=sangrambmt&theme=dark)
 
-![Languages](https://sangrambmts-projects.vercel.app/api/langs?username=sangrambmt&theme=light)
+![Languages](https://sangrambmts-projects.vercel.app/api/langs?username=sangrambmt&theme=dark)
 
-![Heatmap](https://sangrambmts-projects.vercel.app/api/heatmap?username=sangrambmt&theme=light)
+![Heatmap](https://sangrambmts-projects.vercel.app/api/heatmap?username=sangrambmt&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sangrambmt&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sangrambmt&theme=dark&hide_border=true)
 
 </div>
 
@@ -189,8 +193,6 @@ ISSN: 2455-2631 · Vol.6, Issue 5 · pp. 174–179
 | B.Tech — Civil Engineering | GIET, Gunupur | 2009 – 2013 |
 
 ---
-
-
 
 ## 🤝 Let's connect
 
