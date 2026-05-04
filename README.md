@@ -140,7 +140,7 @@ Custom Model Context Protocol server exposing 14 tools across CRM lead managemen
 
 <div align="center">
 
-![Stats](https://sangrambmts-projects.vercel.app/api/stats?username=sangrambmt&theme=dark)
+![Stats](https://sangrambmts-projects.vercel.app/api/stats?username=sangrambmt&theme=dark&v=2)
 
 ![Languages](https://sangrambmts-projects.vercel.app/api/langs?username=sangrambmt&theme=dark)
 
