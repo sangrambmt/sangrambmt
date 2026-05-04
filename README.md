@@ -14,9 +14,9 @@
 
 ---
 
-> *Building production AI systems that work under real-world constraints - latency targets, unreliable data and distributed failure modes.*
+> *Building production AI systems that work under real-world constraints — latency targets, unreliable data, and distributed failure modes.*
 
-I'm a Senior AI Engineer with **8+ years** of experience owning and scaling production AI systems across enterprise environments. I focus on **agentic AI**, large-scale LLM applications and platform-oriented system design - shipping things that actually survive production.
+I'm a Senior AI Engineer with **8+ years** of experience owning and scaling production AI systems across enterprise environments. I focus on **agentic AI**, large-scale LLM applications, and platform-oriented system design — shipping things that actually survive production.
 
 Currently at **Aptean India**, delivering AI systems that have driven 25% improvement in lead conversion and reduced manual operations by 40%.
 
@@ -133,9 +133,17 @@ Boosted marketing ROI by **25%**.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangrambmt...)
+<div align="center">
+
+![Stats](https://sangrambmts-projects.vercel.app/api/stats?username=sangrambmt&theme=light)
+
+![Languages](https://sangrambmts-projects.vercel.app/api/langs?username=sangrambmt&theme=light)
+
+![Heatmap](https://sangrambmts-projects.vercel.app/api/heatmap?username=sangrambmt&theme=light)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sangrambmt&theme=default&hide_border=true)
 
 </div>
 
@@ -184,7 +192,9 @@ ISSN: 2455-2631 · Vol.6, Issue 5 · pp. 174–179
 
 
 
-I'm open to conversations around **agentic AI**, **production LLM systems** and **distributed AI architecture**.
+## 🤝 Let's connect
+
+I'm open to conversations around **agentic AI**, **production LLM systems**, and **distributed AI architecture**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbmthakur)
 [![Email](https://img.shields.io/badge/Send_an_Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:sbmthakur@outlook.com)
